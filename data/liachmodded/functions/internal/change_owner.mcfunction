@@ -1,0 +1,1 @@
+data modify entity @s OwnerUUID set from entity @e[type=minecraft:armor_stand,tag=liach_give_skull,limit=1] ArmorItems[3].tag.SkullOwner.Id
