@@ -1,1 +1,1 @@
-execute as @e[type=fox,distance=..20] run function liachmodded:internal/pet_fox
+execute as @e[type=fox,distance=..20] run function liachmodded:internal/fox_change_friend
